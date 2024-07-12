@@ -5,7 +5,7 @@ import { Toaster } from 'sonner';
 import { SITE_NAME } from '@/constants/seo.constants';
 
 import './globals.scss';
-import { Providers } from './porviders';
+import { Providers } from './providers';
 
 const zen = Noto_Sans({
   subsets: ['cyrillic', 'latin'],
